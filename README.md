@@ -1,2 +1,2 @@
 # IT-company-website
-responsive,bootstrap free  theme
+Responsive,Bootstrap Free Theme
